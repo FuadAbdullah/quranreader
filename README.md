@@ -1,6 +1,6 @@
-# apicall
+# Quran Reader
 
-A flutter application to call and process API
+A flutter application to display surahs of the Quran.
 
 ## Getting Started
 

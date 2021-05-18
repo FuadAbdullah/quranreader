@@ -87,7 +87,7 @@ class _ApiCallCoreState extends State<ApiCallCore> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: Text("API Call App"),
+          title: Text("Quran Reader App"),
           centerTitle: true,
         ),
         endDrawer: Drawer(),
